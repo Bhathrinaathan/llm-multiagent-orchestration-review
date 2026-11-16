@@ -1,4 +1,6 @@
-# Multi-Agent Orchestration: Centralize, Decentralize, or Learn?
+# LLM Multi-Agent Orchestration — Critical Review
+
+*Multi-Agent Orchestration: Centralize, Decentralize, or Learn?*
 
 **A critical review of LLM-based multi-agent systems** — a group paper (Team Falcon, 6 authors) for the Artificial Intelligence module (CS7IS2), MSc Computer Science (Intelligent Systems), Trinity College Dublin, 2026.
 
